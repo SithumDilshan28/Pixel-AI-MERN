@@ -1,4 +1,4 @@
-# Pixel AI: MERN-Based Online AI Image Generation Website with API Integration 
+# Pixel AI: MERN-Based Online AI Image Generation Website with API Integration.
 
 Pixel AI is a personal project that introduces an innovative online AI image generation website. Built using the MERN (MongoDB, Express, React, Node.js) stack and API integration, this platform offers a unique and interactive experience for users to generate AI-powered images. With Pixel AI, users can explore various AI image generation techniques and witness the creative potential of artificial intelligence.
 
